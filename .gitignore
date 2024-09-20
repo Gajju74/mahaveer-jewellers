@@ -1,3 +1,4 @@
 # Python-specific ignores
 
 .env
+\env_project
