@@ -1,4 +1,7 @@
 # Python-specific ignores
 
 .env
-\env_project
+
+
+# Ignore virtual environments
+\env_project\
